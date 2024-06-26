@@ -1,1 +1,1 @@
-Ecart Eureka Server
+eCart Eureka Server
